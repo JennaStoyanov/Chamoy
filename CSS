@@ -1,0 +1,15 @@
+body {
+  font-family: system-ui;
+  background: #c2d1f0;
+  color: white;
+  text-align: center;
+}
+img {
+  border-radius: 50%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
